@@ -1,5 +1,6 @@
 # workus-login
 pagina de login funcional com react e js
+feito por Alex de Almeida Gonçalves 
 
 Comandos yarn start
 O comando yarn start é usado para iniciar o projeto. Ele é configurado no arquivo package.json na seção "scripts", onde você pode definir o comando a ser executado
